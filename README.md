@@ -107,22 +107,28 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
+  
 ![](https://github-profile-trophy.vercel.app/?username=JACELL100&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="400" height="200"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote 💭
 <div align="center">
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔝 Top Contributed Repo 🌟
 <div align="center">
+  
 ![](https://github-contributor-stats.vercel.app/api?username=JACELL100&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
