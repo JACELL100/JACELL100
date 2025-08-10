@@ -3,6 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Jacell+Jamble!+%F0%9F%91%8B;5x+Hackathon+Winner+%F0%9F%8F%86;Fullstack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Game+Developer+%F0%9F%8E%AE;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <br>
 
 <div align="center">
@@ -25,11 +29,18 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jacelljamble) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacell-jamble-8236ba286)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 💻 Tech Stack:
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+</div>
+
 <div align="center">
 
 ### 🔤 Programming Languages
@@ -74,6 +85,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" height="200"/>
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JACELL100&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
@@ -94,6 +110,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=JACELL100&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+<img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="400" height="200"/>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -102,6 +120,8 @@
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
 </div>
 
@@ -116,10 +136,49 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Watch my contribution graph get eaten by the snake 🐍
+## 🚀 What I'm up to
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300">
+</div>
+
 <div align="center">
 
-![snake gif](https://github.com/JACELL100/JACELL100/blob/output/github-contribution-grid-snake.svg)
+🔭 **Currently working on:** Advanced Full Stack Projects 🌟<br>
+🌱 **Currently learning:** Blockchain Development & Smart Contracts 🔗<br>
+👯 **Looking to collaborate on:** Open Source Projects & Hackathons 🤝<br>
+💬 **Ask me about:** Web Dev, Game Dev, UI/UX Design 💡<br>
+⚡ **Fun fact:** I debug with console.log() and I'm not ashamed! 😄<br>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🐍 Contribution Snake
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Hackathon Achievements
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400">
+</div>
+
+<div align="center">
+
+🏅 **5x Hackathon Winner** - Consistent performance across multiple competitions<br>
+🥇 **Problem Solver** - Innovative solutions under pressure<br>
+🤝 **Team Player** - Excellent collaboration and leadership skills<br>
+⚡ **Quick Learner** - Adaptable to new technologies and challenges<br>
 
 </div>
 
@@ -129,9 +188,13 @@
 
 ### 💫 "Code is like humor. When you have to explain it, it's bad." 😄
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
+
 [![](https://visitcount.itsvg.in/api?id=JACELL100&icon=9&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 **Thanks for visiting! Have a great day! 🌟**
+
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"/>
 
 </div>
 
