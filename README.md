@@ -107,31 +107,22 @@
 
 ### 🏆 GitHub Trophies
 <div align="center">
-
 ![](https://github-profile-trophy.vercel.app/?username=JACELL100&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 <img src="https://media.giphy.com/media/3o7qDVHln5s9aZqs2k/giphy.gif" width="400" height="200"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### ✍️ Random Dev Quote 💭
 <div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔝 Top Contributed Repo 🌟
 <div align="center">
-
 ![](https://github-contributor-stats.vercel.app/api?username=JACELL100&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -151,29 +142,9 @@
 ⚡ **Fun fact:** I debug with console.log() and I'm not ashamed! 😄<br>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎯 Hackathon Achievements
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400">
-</div>
-
-<div align="center">
 
 🏅 **5x Hackathon Winner** - Consistent performance across multiple competitions<br>
 🥇 **Problem Solver** - Innovative solutions under pressure<br>
@@ -181,14 +152,9 @@
 ⚡ **Quick Learner** - Adaptable to new technologies and challenges<br>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-
-### 💫 "Code is like humor. When you have to explain it, it's bad." 😄
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 
 [![](https://visitcount.itsvg.in/api?id=JACELL100&icon=9&color=12&pretty=true)](https://visitcount.itsvg.in)
 
