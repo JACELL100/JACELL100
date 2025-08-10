@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey!🖐️ I'm Jacell Jamble<br><br>> Computer Engineering Student at Fr.CRCE<br>> UI/UX Designer<br>> Frontend Developer<br>> Game Developer<br>> Learning Backend<br>> Constantly seeking opportunities for learning, growth, and collaboration.
+Hey!🖐️ I'm Jacell Jamble<br><br>> Computer Engineering Student at Fr.CRCE<br>> 5x Hackathon Winner<br>> UI/UX Designer<br>> Fullstack Developer<br>> Game Developer<br>> Learning Blockchain<br>> Constantly seeking opportunities for learning, growth, and collaboration.
 
 
 ## 🌐 Socials:
