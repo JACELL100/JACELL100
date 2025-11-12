@@ -1,6 +1,6 @@
 # 💫 About Me:
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Jacell+Jamble!+%F0%9F%91%8B;5x+Hackathon+Winner+%F0%9F%8F%86;Fullstack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Game+Developer+%F0%9F%8E%AE;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Jacell+Jamble!+%F0%9F%91%8B;6x+Hackathon+Winner+%F0%9F%8F%86;Fullstack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Game+Developer+%F0%9F%8E%AE;Blockchain+Enthusiast+%E2%9B%93%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
