@@ -12,7 +12,7 @@
 <div align="center">
   
 🎓 **Computer Engineering Student** at Fr.CRCE<br>
-🏆 **5x Hackathon Winner** 🥇<br>
+🏆 **6x Hackathon Winner** 🥇<br>
 🎨 **UI/UX Designer** ✨<br>
 💻 **Fullstack Developer** 🚀<br>
 🎮 **Game Developer** 🕹️<br>
