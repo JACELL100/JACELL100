@@ -181,64 +181,21 @@ mindmap
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JACELL100&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph" />
 
-<br><br>
+<br>
 
-<!-- Animated Contribution Streak -->
-### 🔥 Contribution Streak Animation
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JACELL100&theme=tokyonight" />
+### 🐍 Watch the Snake Eat My Contributions!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JACELL100/JACELL100/output/github-contribution-grid-snake.svg">
+</picture>
 
 <br>
 
-<!-- 3D Contribution Graph -->
-### 🌊 3D Contribution Wave
-<img src="https://github-readme-stats.vercel.app/api?username=JACELL100&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Journey&include_all_commits=true&line_height=21" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JACELL100&theme=tokyonight" />
-
-<br>
-
-<!-- Animated Stats Cards -->
-### 📊 Dynamic Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JACELL100&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JACELL100&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JACELL100&theme=tokyonight" />
-
-<br>
-
-<!-- Circular Language Chart -->
-### 🎨 Language Distribution
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JACELL100&layout=donut&theme=tokyonight&hide_border=true" />
-
-<br>
-
-<!-- GitHub Metrics - Extensive Animated Stats -->
-### 📈 Detailed Metrics & Achievements
-
-<img src="https://metrics.lecoq.io/JACELL100?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&achievements=1&notable=1&reactions=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines.sections=base&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=14&reactions.display=absolute&config.timezone=Asia%2FCalcutta" alt="Detailed Metrics">
-
-<br>
-
-<!-- WakaTime-like coding activity -->
-### ⌨️ Coding Activity
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JACELL100&theme=tokyonight&hide_border=true&layout=compact" />
-
-<br>
-
-<!-- Isometric Contribution Graph -->
-### 🎲 Isometric Contributions
-<img src="https://github-profile-3d-contrib.vercel.app/api?username=JACELL100&theme=tokyonight" />
-
-<br>
-
-<!-- GitHub Trophies with Animation -->
 ### 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=JACELL100&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-<br>
-
-<!-- Animated Commit Graph -->
-### 💫 Commit Activity
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=JACELL100&theme=tokyonight" />
 
 </div>
 
